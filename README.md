@@ -1,4 +1,4 @@
-# "Professional Coding Setup" - project files
+# "Professional Coding Setup" - files
 
-Starter files and solutions for the "Professional Coding Setup" module of the
-Front-end Development course.
+Examples, exercise starter files and exercise solutions for the "Professional
+Coding Setup" module of the Front-end Development course.
